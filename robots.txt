@@ -3,4 +3,4 @@ Allow: /
 Disallow: /admin/
 Disallow: /*.json$
 
-Sitemap: https://huynhanhtruong96-png.github.io/hatori/sitemap.xml
+Sitemap: https://hatori.vn/sitemap.xml
